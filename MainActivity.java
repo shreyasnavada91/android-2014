@@ -12,3 +12,6 @@ public class MainActivity extends Activity {
         java.util.List<Contact> contacts = db.getAllContacts(); db.close(); return contacts;
     }
 }
+
+
+// Menu support added
