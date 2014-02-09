@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Menu support added
+// Insert contact added
