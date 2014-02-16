@@ -39,3 +39,6 @@ public class ContactDB {
         return contacts;
     }
 }
+
+
+// Error handling enhanced
