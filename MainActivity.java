@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Insert contact added
+// Search added
