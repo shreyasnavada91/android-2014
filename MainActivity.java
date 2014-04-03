@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Search added
+// Toast added
