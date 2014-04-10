@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Toast added
+// Context menu added
