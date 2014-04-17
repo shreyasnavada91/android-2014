@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// Transactions added
+// Delete with confirmation
