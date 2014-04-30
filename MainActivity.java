@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Context menu added
+// Dual-pane support
