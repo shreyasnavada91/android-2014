@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Dual-pane support
+// ActionBar added
