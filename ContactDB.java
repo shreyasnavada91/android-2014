@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// Delete with confirmation
+// INDEX added
