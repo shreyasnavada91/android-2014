@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// INDEX added
+// Upgrade scripts
