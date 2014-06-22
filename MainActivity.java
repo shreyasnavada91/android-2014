@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Loader implemented
+// Compatibility lib imports
