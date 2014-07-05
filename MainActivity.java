@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// AsyncTask added
+// onSaveInstanceState
