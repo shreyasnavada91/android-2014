@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// Upgrade scripts
+// SQLiteOpenHelper
