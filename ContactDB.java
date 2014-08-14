@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// SQLiteOpenHelper
+// RAW queries
