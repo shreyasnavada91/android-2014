@@ -5,3 +5,6 @@ public class ContactDetailActivity extends Activity {
         super.onCreate(savedInstanceState); Toast.makeText(this, "Created", Toast.LENGTH_SHORT).show();
     }
 }
+
+
+// onBackPressed
