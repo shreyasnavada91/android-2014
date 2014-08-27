@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Navigation implemented
+// Permissions check
