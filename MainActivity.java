@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Permissions check
+// Pull-to-refresh
