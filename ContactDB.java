@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// JOIN queries
+// Prepared statements
