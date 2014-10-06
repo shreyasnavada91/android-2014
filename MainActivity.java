@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Pull-to-refresh
+// Lifecycle logging
