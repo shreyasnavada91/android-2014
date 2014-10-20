@@ -41,4 +41,4 @@ public class ContactDB {
 }
 
 
-// Prepared statements
+// TRIGGER added
