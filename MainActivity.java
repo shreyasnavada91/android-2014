@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Search interface
+// Star marking
