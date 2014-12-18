@@ -14,4 +14,4 @@ public class MainActivity extends Activity {
 }
 
 
-// Star marking
+// Undo delete
